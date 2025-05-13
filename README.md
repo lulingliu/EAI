@@ -3,5 +3,8 @@ Universal access to electricity remains a cornerstone of sustainable development
 
 ![Graphical Abstract](Results/Figures/GraphicalAbstract.jpg)
 
+
+More details will be available after some necessary reviews and revisions.
+
 ## Dataset
 Liu, L., & Cao, X. (2024). A long-term global population proportion with access to electricity dataset (SDG 7.1.1) from 1992 to 2022 based on nighttime light remote sensing (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14018079
